@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2018-PGRF2-task2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2018_PGRF2_task2_jar</output-path>
+    <root id="archive" name="2018-PGRF2-task2.jar">
+      <element id="module-output" name="2018-PGRF2-2" />
+      <element id="extracted-dir" path="C:/java/jogl2.3.2-rc18/jogamp-all-platforms/jar/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/java/jogl2.3.2-rc18/jogamp-all-platforms/jar/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/java/jogl2.3.2-rc18/jogamp-all-platforms/jar/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/java/jogl2.3.2-rc18/jogamp-all-platforms/jar/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/java/jogl2.3.2-rc18/jogamp-all-platforms/jar/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/java/jogl2.3.2-rc18/jogamp-all-platforms/jar/gluegen-rt.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
